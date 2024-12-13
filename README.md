@@ -10,6 +10,8 @@ Python CLI tool to use any Google Gemini model on the command line.
 - shows how long the model took to respond, the amount of tokens generated and how fast it generated in tokens/second
 - multiline prompt support
 
+![](https://github.com/user-attachments/assets/e3de837a-ba1b-4b98-9b7f-419ca7831a43)
+
 ## note
 this is just a small project, you are free to use this if you want but don't expect regular updates
 
