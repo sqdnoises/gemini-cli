@@ -1,0 +1,17 @@
+# cache and temp
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+*.tmp
+.DS_Store
+
+# virtual environments
+.venv/
+venv/
+
+# environmental variables
+.env
+
+# local history
+.history/
